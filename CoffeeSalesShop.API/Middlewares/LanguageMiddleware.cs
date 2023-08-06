@@ -1,4 +1,4 @@
-﻿namespace CoffeeSalesShop.API.Middleware;
+﻿namespace CoffeeSalesShop.API.Middlewares;
 
 /// <summary>
 /// Language handler middleware

@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using Newtonsoft.Json;
 
-namespace CoffeeSalesShop.API.Middleware;
+namespace CoffeeSalesShop.API.Middlewares;
 
 /// <summary>
 /// Exception handler middleware

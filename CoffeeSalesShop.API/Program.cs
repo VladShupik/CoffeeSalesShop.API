@@ -1,6 +1,6 @@
 using CoffeeSalesShop.API.Data;
 using CoffeeSalesShop.API.Interfaces;
-using CoffeeSalesShop.API.Middleware;
+using CoffeeSalesShop.API.Middlewares;
 using CoffeeSalesShop.API.Services;
 using Microsoft.AspNetCore.Localization;
 using System.Globalization;
